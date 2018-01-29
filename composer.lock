@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "925fe3ee22b6fbb6cc0f8a6a2daae54d",
+    "content-hash": "1123d01c477f14c42b996b3c271ac2bf",
     "packages": [
         {
             "name": "akuma/distribution-bundle",
